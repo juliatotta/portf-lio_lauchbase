@@ -1,4 +1,4 @@
-# portfolio_lanuchbase
+# portfolio_launchbase
 Portfólio criado durante o bootcamp Launchbase da Rocketseat. Esse portfólio serve como base para os desafios lançados.
 
 ![Screen Shot 2020-07-31 at 17 58 15](https://user-images.githubusercontent.com/32882425/89077008-b3c6ff00-d357-11ea-8ab1-2da9fb121e8d.png)
